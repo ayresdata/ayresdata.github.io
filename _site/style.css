@@ -114,7 +114,8 @@ section.slogan {
 section.slogan .intro-text .name {
     display: block;
     font-family: antenna;
-    font-size: 55em;
+    font-size: 1em; /*55em;*/
+    font-size: 2vw;
     letter-spacing: 4px;
     color: #fff;
     /*font-weight: 700;*/

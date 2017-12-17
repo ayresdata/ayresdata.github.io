@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator>
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-12-17T16:25:22-03:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://www.ayres.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://www.ayres.io/" rel="alternate" type="text/html" />
+  <updated>2017-12-17T16:35:28-03:00</updated>
+  <id>http://www.ayres.io/</id>
 
   
     <title type="html">Ayres.io</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Capacitaciones</title>
-      <link href="http://localhost:4000/capacitaciones/2014/08/01/capacitaciones/" rel="alternate" type="text/html" title="Capacitaciones" />
+      <link href="http://www.ayres.io/capacitaciones/2014/08/01/capacitaciones/" rel="alternate" type="text/html" title="Capacitaciones" />
       <published>2014-08-01T00:00:00-03:00</published>
       <updated>2014-08-01T00:00:00-03:00</updated>
-      <id>http://localhost:4000/capacitaciones/2014/08/01/capacitaciones</id>
-      <content type="html" xml:base="http://localhost:4000/capacitaciones/2014/08/01/capacitaciones/"></content>
+      <id>http://www.ayres.io/capacitaciones/2014/08/01/capacitaciones</id>
+      <content type="html" xml:base="http://www.ayres.io/capacitaciones/2014/08/01/capacitaciones/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">Sistemas de FIFO y Commit centralizado</title>
-      <link href="http://localhost:4000/sistemas%20de%20fifo%20y%20commit%20centralizado/2014/07/18/pipelines/" rel="alternate" type="text/html" title="Sistemas de FIFO y Commit centralizado" />
+      <link href="http://www.ayres.io/sistemas%20de%20fifo%20y%20commit%20centralizado/2014/07/18/pipelines/" rel="alternate" type="text/html" title="Sistemas de FIFO y Commit centralizado" />
       <published>2014-07-18T00:00:00-03:00</published>
       <updated>2014-07-18T00:00:00-03:00</updated>
-      <id>http://localhost:4000/sistemas%20de%20fifo%20y%20commit%20centralizado/2014/07/18/pipelines</id>
-      <content type="html" xml:base="http://localhost:4000/sistemas%20de%20fifo%20y%20commit%20centralizado/2014/07/18/pipelines/"></content>
+      <id>http://www.ayres.io/sistemas%20de%20fifo%20y%20commit%20centralizado/2014/07/18/pipelines</id>
+      <content type="html" xml:base="http://www.ayres.io/sistemas%20de%20fifo%20y%20commit%20centralizado/2014/07/18/pipelines/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Bases de Datos Open Source Relacionales</title>
-      <link href="http://localhost:4000/bases%20de%20datos%20open%20source%20relacionales/2014/07/18/relacionales/" rel="alternate" type="text/html" title="Bases de Datos Open Source Relacionales" />
+      <link href="http://www.ayres.io/bases%20de%20datos%20open%20source%20relacionales/2014/07/18/relacionales/" rel="alternate" type="text/html" title="Bases de Datos Open Source Relacionales" />
       <published>2014-07-18T00:00:00-03:00</published>
       <updated>2014-07-18T00:00:00-03:00</updated>
-      <id>http://localhost:4000/bases%20de%20datos%20open%20source%20relacionales/2014/07/18/relacionales</id>
-      <content type="html" xml:base="http://localhost:4000/bases%20de%20datos%20open%20source%20relacionales/2014/07/18/relacionales/"></content>
+      <id>http://www.ayres.io/bases%20de%20datos%20open%20source%20relacionales/2014/07/18/relacionales</id>
+      <content type="html" xml:base="http://www.ayres.io/bases%20de%20datos%20open%20source%20relacionales/2014/07/18/relacionales/"></content>
 
       
       
@@ -123,11 +123,11 @@
   
     <entry>
       <title type="html">Sistemas de Clave/Valor</title>
-      <link href="http://localhost:4000/keyvalue/2014/07/17/keyvalue/" rel="alternate" type="text/html" title="Sistemas de Clave/Valor" />
+      <link href="http://www.ayres.io/keyvalue/2014/07/17/keyvalue/" rel="alternate" type="text/html" title="Sistemas de Clave/Valor" />
       <published>2014-07-17T00:00:00-03:00</published>
       <updated>2014-07-17T00:00:00-03:00</updated>
-      <id>http://localhost:4000/keyvalue/2014/07/17/keyvalue</id>
-      <content type="html" xml:base="http://localhost:4000/keyvalue/2014/07/17/keyvalue/"></content>
+      <id>http://www.ayres.io/keyvalue/2014/07/17/keyvalue</id>
+      <content type="html" xml:base="http://www.ayres.io/keyvalue/2014/07/17/keyvalue/"></content>
 
       
       
@@ -157,11 +157,11 @@
   
     <entry>
       <title type="html">Bases de Datos Analíticas</title>
-      <link href="http://localhost:4000/bases%20anal%C3%ADticas/2014/07/16/analytics/" rel="alternate" type="text/html" title="Bases de Datos Analíticas" />
+      <link href="http://www.ayres.io/bases%20anal%C3%ADticas/2014/07/16/analytics/" rel="alternate" type="text/html" title="Bases de Datos Analíticas" />
       <published>2014-07-16T00:00:00-03:00</published>
       <updated>2014-07-16T00:00:00-03:00</updated>
-      <id>http://localhost:4000/bases%20anal%C3%ADticas/2014/07/16/analytics</id>
-      <content type="html" xml:base="http://localhost:4000/bases%20anal%C3%ADticas/2014/07/16/analytics/"></content>
+      <id>http://www.ayres.io/bases%20anal%C3%ADticas/2014/07/16/analytics</id>
+      <content type="html" xml:base="http://www.ayres.io/bases%20anal%C3%ADticas/2014/07/16/analytics/"></content>
 
       
       
@@ -191,11 +191,11 @@
   
     <entry>
       <title type="html">Escalamiento y Alta disponibilidad</title>
-      <link href="http://localhost:4000/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA/" rel="alternate" type="text/html" title="Escalamiento y Alta disponibilidad" />
+      <link href="http://www.ayres.io/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA/" rel="alternate" type="text/html" title="Escalamiento y Alta disponibilidad" />
       <published>2014-07-15T00:00:00-03:00</published>
       <updated>2014-07-15T00:00:00-03:00</updated>
-      <id>http://localhost:4000/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA</id>
-      <content type="html" xml:base="http://localhost:4000/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA/"></content>
+      <id>http://www.ayres.io/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA</id>
+      <content type="html" xml:base="http://www.ayres.io/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA/"></content>
 
       
       
@@ -225,11 +225,11 @@
   
     <entry>
       <title type="html">Seguridad y Protección de Datos</title>
-      <link href="http://localhost:4000/seguridad%20y%20protecci%C3%B3n%20de%20datos/2014/07/15/seguridaddatos/" rel="alternate" type="text/html" title="Seguridad y Protección de Datos" />
+      <link href="http://www.ayres.io/seguridad%20y%20protecci%C3%B3n%20de%20datos/2014/07/15/seguridaddatos/" rel="alternate" type="text/html" title="Seguridad y Protección de Datos" />
       <published>2014-07-15T00:00:00-03:00</published>
       <updated>2014-07-15T00:00:00-03:00</updated>
-      <id>http://localhost:4000/seguridad%20y%20protecci%C3%B3n%20de%20datos/2014/07/15/seguridaddatos</id>
-      <content type="html" xml:base="http://localhost:4000/seguridad%20y%20protecci%C3%B3n%20de%20datos/2014/07/15/seguridaddatos/"></content>
+      <id>http://www.ayres.io/seguridad%20y%20protecci%C3%B3n%20de%20datos/2014/07/15/seguridaddatos</id>
+      <content type="html" xml:base="http://www.ayres.io/seguridad%20y%20protecci%C3%B3n%20de%20datos/2014/07/15/seguridaddatos/"></content>
 
       
       

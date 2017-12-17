@@ -1,7 +1,7 @@
 # Site settings
 title: Ayres.io
 email: admon@ayres.io
-url: www.ayres.io
+url: ayresdata.github.io
 description: "Soporte y Escalamiento de Data Stack."
 keywords: "data engineering databases relational nosql postgresql mysql mariadb clickhouse rethinkdb cockroachdb"
 skills: "Soporte y Escalamiento de Data Stack."

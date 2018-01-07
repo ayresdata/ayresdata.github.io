@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-12-17T16:40:29-03:00</updated>
+  <updated>2018-01-07T18:29:50-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,12 +12,46 @@
   
 
   
-    <subtitle>Soporte y Escalamiento de Data Stack.</subtitle>
+    <subtitle>Soporte y Escalamiento de Plataforma de Datos.</subtitle>
   
 
   
 
   
+  
+    <entry>
+      <title type="html">Full Text Search</title>
+      <link href="http://localhost:4000/full%20text%20search/2018/01/05/fulltext/" rel="alternate" type="text/html" title="Full Text Search" />
+      <published>2018-01-05T00:00:00-03:00</published>
+      <updated>2018-01-05T00:00:00-03:00</updated>
+      <id>http://localhost:4000/full%20text%20search/2018/01/05/fulltext</id>
+      <content type="html" xml:base="http://localhost:4000/full%20text%20search/2018/01/05/fulltext/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Full Text Search" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Capacitaciones</title>
@@ -190,8 +224,8 @@
     </entry>
   
     <entry>
-      <title type="html">Escalamiento y Alta disponibilidad</title>
-      <link href="http://localhost:4000/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA/" rel="alternate" type="text/html" title="Escalamiento y Alta disponibilidad" />
+      <title type="html">Escalamiento y Alta Disponibilidad (HA)</title>
+      <link href="http://localhost:4000/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA/" rel="alternate" type="text/html" title="Escalamiento y Alta Disponibilidad (HA)" />
       <published>2014-07-15T00:00:00-03:00</published>
       <updated>2014-07-15T00:00:00-03:00</updated>
       <id>http://localhost:4000/escalamiento%20y%20alta%20disponibilidad/2014/07/15/escalamientoHA</id>

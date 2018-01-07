@@ -3,9 +3,9 @@ title: Ayres.io
 email: admon@ayres.io
 #url: ayresdata.github.io
 url: http://www.ayres.io
-description: "Soporte y Escalamiento de Data Stack."
+description: "Soporte y Escalamiento de Plataforma de Datos."
 keywords: "data engineering databases relational nosql postgresql mysql mariadb clickhouse rethinkdb cockroachdb"
-skills: "Soporte y Escalamiento de Data Stack."
+skills: "Soporte y Escalamiento de Platadorma de Datos."
 meta_author: Ayres Data
 
 # Google webmaster tools
@@ -30,8 +30,8 @@ menu:
   contact: "Contacto"
 
 nosotros:
-  p1: "El crecimiento de una empresa trae aparejado un mayor volumen de datos. Los tiempos de respuesta, seguridad y la disponibilidad de los servicios de datos en el backend comienzan a ser más críticos."
-  p2: "Sabemos como ayudarlo en esto, años de experiencia y trabajo en clientes de envergadura nos han dado la experiencia para actuar en lo que su empresa necesita."
+  p1: "El crecimiento de una empresa trae aparejado un mayor volumen de datos. Los tiempos de respuesta, seguridad y la disponibilidad de los servicios comienzan a ser más críticos, su plataforma de datos necesita hoy más que nunca, ser eficiente."
+  p2: "Nuestra experiencia en clientes de envergadura, nos han dado las herramientas para asesorarlo en el corazón de la información de su empresa."
   button: "Nosotros"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -69,7 +69,7 @@ address:
   - line: Buenos Aires, Argentina
 
 # Credits content
-credits: 'Data matters.'
+credits: 'Your Data Stack, matters.'
 
 # Build settings
 markdown: kramdown

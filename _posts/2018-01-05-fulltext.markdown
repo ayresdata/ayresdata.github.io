@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+date: 2018-01-05
+img: fulltext.png
+alt: image-alt
+project-date: January 2018
+client: Start Bootstrap
+category: Full Text Search
+title: Full Text Search
+description: La búsqueda de text avanzado ha evolucionado radicalmente en los últimos años. Sistemas como ElasticSearch, Sphinx Search, entre otros, están diseñados específicamente para servir estos propósitos. Así también, diversos sistemas como PostgreSQL, MySQL/MariaDB y MongoDB, han incorporado esta tecnología cuya implementación es distinta en cada una de ellas. La búsqueda de texto avanzado puede proveer respuestas en órdenes mucho menores que consultas basadas en expresiones regulares, a coste de hacer mayor procesamiento en los índices.
+
+---
